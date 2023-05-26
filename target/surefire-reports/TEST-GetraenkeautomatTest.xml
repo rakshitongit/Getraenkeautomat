@@ -61,10 +61,10 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatCoinsInserted" time="0.005"/>
+  <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatCoinsInserted" time="0.004"/>
   <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatItemSelectedCorrectly" time="0"/>
   <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatItemSelectedInCorrectly" time="0"/>
   <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatSelectAndCheckout6Times" time="0.001"/>
-  <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatSelectAndCheckout" time="0"/>
+  <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatSelectAndCheckout" time="0.001"/>
   <testcase classname="GetraenkeautomatTest" name="testGetraenkAutomatIsCorrectlyInitialised" time="0"/>
 </testsuite>
