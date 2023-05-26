@@ -1,0 +1,10 @@
+org/arvato/systems/aufgabe/helpers/Collector.class
+org/arvato/systems/aufgabe/getraenkeautomat/GetraenkautomatImpl.class
+org/arvato/systems/aufgabe/Main.class
+org/arvato/systems/aufgabe/exceptions/NotFullPaidException.class
+org/arvato/systems/aufgabe/classes/Container.class
+org/arvato/systems/aufgabe/getraenkeautomat/Getraenkeautomat.class
+org/arvato/systems/aufgabe/classes/Getraenk.class
+org/arvato/systems/aufgabe/exceptions/NotSufficientChangeException.class
+org/arvato/systems/aufgabe/exceptions/SoldOutException.class
+org/arvato/systems/aufgabe/classes/Geld.class
